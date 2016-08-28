@@ -1,0 +1,7 @@
+C:\Users\asus\Desktop\ÖRNEKLER\WebBrowser_beta_0.1\WebBrowser_beta_0.1\bin\Debug\WebBrowser_beta_0.1.exe
+C:\Users\asus\Desktop\ÖRNEKLER\WebBrowser_beta_0.1\WebBrowser_beta_0.1\bin\Debug\WebBrowser_beta_0.1.pdb
+C:\Users\asus\Desktop\ÖRNEKLER\WebBrowser_beta_0.1\WebBrowser_beta_0.1\obj\x86\Debug\WebBrowser_beta_0._1.Form1.resources
+C:\Users\asus\Desktop\ÖRNEKLER\WebBrowser_beta_0.1\WebBrowser_beta_0.1\obj\x86\Debug\WebBrowser_beta_0._1.Properties.Resources.resources
+C:\Users\asus\Desktop\ÖRNEKLER\WebBrowser_beta_0.1\WebBrowser_beta_0.1\obj\x86\Debug\WebBrowser_beta_0.1.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\ÖRNEKLER\WebBrowser_beta_0.1\WebBrowser_beta_0.1\obj\x86\Debug\WebBrowser_beta_0.1.exe
+C:\Users\asus\Desktop\ÖRNEKLER\WebBrowser_beta_0.1\WebBrowser_beta_0.1\obj\x86\Debug\WebBrowser_beta_0.1.pdb
